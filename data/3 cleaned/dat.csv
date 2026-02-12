@@ -1,0 +1,139 @@
+study,progress_monitoring_method,focal_behavior_outcome,ne,nc,cohens_d_pm,cohens_d_ga,cohens_d_pm_cleaned
+Abrahams et al. (2010),Diary,Prophylaxis use,125,128,.27*ᵃ,.15c,0.27
+Anderson et al. (2011),Diary,Weight,18,13,4.31***b,3.21***d,4.31
+Andrews et al. (2011),Pedometer,BG,240,246,4.11***b,-.02de,4.11
+Antypas & Wangberg (2014),Website,PA,27,37,.17ᵃ,.84*c,0.17
+Arbour & Martin Ginis (2008),Log book,PA,25,17,.10a,.50de,0.1
+Aronson (2006),Diary,Medication adherence,19,19,-.61ª,.11°,-0.61
+Atienza et al. (2008),PDA,Diet,16,11,2.95***b,.51d,2.95
+Beasley et al. (2008),Diary,Weight,71,78,.00a,.25d,0
+Bell et al. (2012),Log/diary,BG,31,33,-.36ᵃ,.32d,-0.36
+Berg et al. (1997),Diary,Asthma,31,24,4.32****,.12de,4.32
+Blasco et al. (2012),Internet,CAD,87,83,4.07***b,.09d,4.07
+Abraira et al. (1995),SMBG,BG,75,78,2.41****,.47**°,2.41
+Boutelle et al. (1999),Diary,Weight,26,31,.47a,1.64*,0.47
+Brindal et al. (2013),Phone,Weight,21,23,.95***,.37de,0.95
+Buist et al. (2006),Diary,Asthma,149,147,.00a,.16de,0
+Caldwell et al. (2005),Diary,Heart failure,20,16,.62a,1.01**de,0.62
+Carli et al. (2008),UV meter,Sun protection,46,40,3.39***b,-.51*c,3.39
+Carter et al. (2013) Comp. 1',Phone,"Weight, diet, PA",40,20,.94***,.30d,0.94
+Carter et al. (2013) Comp. 2',Phone,"Weight, diet, PA",27,20,.14a,-.33d,0.14
+Chambliss et al. (2011),PDA,Weight,34,33,"-.59""ᵃ",-.08°,-0.59
+Chao (2010),Step log,PA,20,20,3.52***b,.27d,3.52
+Chau et al. (2012),PDA,COPD,22,18,3.64***b,-.05d,3.64
+Acharya et al. (2011),PDA,Weight,129,62,66***a,.12de,66
+Cho et al. (2006),SMBG,BG,35,36,0.5,.82**de,0.5
+Clarke et al. (2009),Website,Depression,58,58,2.58***b,0.81,2.58
+Coughlin et al. (2013) Comp. 1k,Diary,Diet,292,144,.26***,.13d,0.26
+Coughlin et al. (2013) Comp. 2',Diary,Diet,301,144,.38****,.27**d1,0.38
+Cussler et al. (2008),Website,"Weight, diet, PA",38,40,4.17***b,.01°,4.17
+D'Eram (1987) Comp. 1m,SMBG,Weight,15,6,.42a,.54de,0.42
+D'Eramo (1987) Comp. 2n,SMBG,Weight,19,6,.51a,.53de,0.51
+De Blok et al. (2006),Diary,PA,8,8,4.61***b,1.50**de,4.61
+De Cocker et al. (2008),Pedometer,PA,51,52,.38a,-.11de,0.38
+De Cocker et al. (2012),Diary,PA,32,37,-.19ᵃ,.51d,-0.19
+Akers et al. (2012),Tracking sheets,"Weight, diet",18,21,-.13***ᵃ,-.02ᵈ,-0.13
+Dennis et al. (2012),Website,"Weight, diet, PA",18,21,3.39***b,-.06de,3.39
+Dennison et al. (2014) Comp. 1°,Website,"Weight, diet, PA",247,138,2.35***b,.91***d,2.35
+Dennison et al. (2014) Comp. 2P,Website,"Weight, diet, PA",264,138,2.09***b,.77**d,2.09
+DeWalt et al. (2006),Diary,Healthcare use,52,59,1.22****,-.19°,1.22
+Domingo et al. (2011),Website/television,Healthcare use,44,42,3.48***b,-.11°,3.48
+Duran et al. (2010),SMBG,BG,99,62,2.28****,2.70***de,2.28
+Farmer et al. (2007) Comp. 19,SMBP,BG,150,76,3.31***b,.16dq,3.31
+Farmer et al. (2007) Comp. 2,SMBP,BG,151,76,2.97***b,.20dr,2.97
+Gajecki et al. (2014),Phone,Alcohol,341,489,3.50***b,#NAME?,3.5
+Gokee LaRose et al. (2010),Diary,Weight,21,23,.96***b,-1.22**d,0.96
+Allen et al. (2013) Comp. 1f,Phone,Weight,11,4,2.76***b,.45d,2.76
+Gokee LaRose et al. (2009),Digital scales,Weight,20,17,1.12****,.10d,1.12
+Gold et al. (2007),Website,Diet,51,50,.58****,.46*d,0.58
+Goto et al. (2014),Phone,"PA, blood coagulation",16,16,4.11***b,.05de,4.11
+Goulis et al. (2004),Phone,"Weight, BP, Physiol.",45,77,3.08***b,.57**de,3.08
+Haapala et al. (2009),Phone,"Weight, diet, PA",45,40,2.43***b,.42de,2.43
+Haddock et al. (2014),Website,"Weight, diet, PA",229,253,.91****,25**d,0.91
+Hannum et al. (2004),Diary,"Weight, diet",26,27,.16a,.38d,0.16
+Hellerstedt & Jeffrey (1997) Comp. 1s,Phone,Weight,20,11,4.32***b,-1.48**d,4.32
+Hellerstedt & Jeffrey (1997) Comp. 2t,Phone,"Diet, PA",17,11,3.70***b,.83d,3.7
+Helsel et al. (2007),Diary,Weight,21,21,.23a,.07d,0.23
+Allen et al. (2013) Comp. 2g,Phone,Weight,10,4,2.71**b,.42d,2.71
+Homko et al. (2012),Website/phone,BG,40,40,.04a,.21°,0.04
+Allen et al. (2013) Comp. 3h,Phone,Weight,10,4,2.02**b,-.10ᵈ,2.02
+Amsberg et al. (2009),Blood sugar,BG,36,38,.70***,.47°,0.7
+An et al. (2006),Website,Smoking,257,260,10.72***b,.45***c,10.72
+Hurling et al. (2007),Website,"Weight, PA",47,30,3.71***,2.86***d,3.71
+King et al. (2008),PDA,PA,19,18,3.34***b,.71*c,3.34
+Kirwan et al. (2013),Diary,Diabetes,32,36,.43ᵃ,3.78***d,0.43
+Kobulnicky (2002),Diary,Effects of chemotherapy,42,29,3.95***b,.05d,3.95
+Kraschnewski et al. (2011),Website,"Weight, diet, PA",43,45,2.16***b,.28d,2.16
+Kristal et al. (2000),Diary,Diet,601,604,2.87***b,21***d,2.87
+Kroenke et al. (2010),Phone,Depression,202,203,4.50***b,.54***de,4.5
+Kwon et al. (2004),SMBG,BG,51,50,5.23****,.89***de,5.23
+Ligibel et al. (2012),Diary,PA,48,51,2.80***b,.18d,2.8
+Linde & Jeffrey (2011),Diary,"Weight, diet, PA",22,26,1.16****,.20d,1.16
+Logan et al. (2012),SMBP,BP,55,55,3.26***b,.38d,3.26
+Hyman et al. (1998),Diary,Cholesterol,65,58,3.44***b,.10d,3.44
+Maljanian et al. (2005),Diary,Diabetes,181,162,.13a,.15de,0.13
+Marquez-Contreras et al. (2006),MEMS,BP,100,100,1.11****,.24de,1.11
+Maruyama et al. (2010),Website,PA,48,39,.61***,.44*c,0.61
+McKinstry et al. (2013),PDA,BP,182,177,4.17***b,.41***d,4.17
+McManus et al. (2010),SMBP,BP,234,246,3.49***b,3.80***d,3.49
+"McMurdo et al. (2010) Comp. 1""",Diary,PA,60,33,4.61***b,1.32***d,4.61
+"McMurdo et al. (2010) Comp. 2""",Diary,PA,53,33,4.50***b,3.31***d,4.5
+Mehos et al. (2000),SMBP,BP,18,18,4.00***b,.56d,4
+Moreland et al. (2006) Comp. 1w,SMBG,BG,50,49,.44*a,.14d,0.44
+Moreland et al. (2006) Comp. 2*,SMBG,BG,50,49,-.07a,.07d,-0.07
+Janson et al. (2003),Diary,Asthma,31,27,-.09ᵃ,.72**de,-0.09
+Morgan et al. (2009),Website,"Weight, PA",24,31,.51b,1.21***d,0.51
+Muchmore et al. (1994),SMBG,BG,12,11,3.61***b,1.86,3.61
+Nanchahal et al. (2009),Pedometer,Weight,48,55,3.24***b,.07d,3.24
+Nguyen et al. (2009),Phone,PA,9,8,".68""",-.54de,0.68
+O'Kane et al. (2008),SMBG,BG,96,88,3.68***b,.09de,3.68
+Ornes (2006),Diary,PA,30,29,3.41***b,.73**de,3.41
+Orsama et al. (2013),PDA,Blood glucose,24,24,3.02***b,.47d,3.02
+Oshima et al. (2013),PDA,Weight,28,28,1.51****,.30de,1.51
+Pellegrini et al. (2012),Website,"Weight, diet, PA",17,13,.29a,.13d,0.29
+Petersen et al. (2012),Pedometer,PA,192,173,3.87***b,.07d,3.87
+Janson et al. (2009),Diaries,Asthma,45,39,.17ᵃ,.12d,0.17
+Petrella et al. (2014),Phone,PA,67,60,3.37***b,-.04de,3.37
+Phelan et al. (2014),Phone,"Weight, diet, PA",128,133,.28*a,.16d,0.28
+Piette et al. (2011),Diary,Physical activity,145,146,-.47****,.40**de,-0.47
+Polonsky et al. (2011),SMBG,BG,188,187,-.37****,.33**d,-0.37
+Polzien et al. (2007),Diary,"Weight, diet, PA",16,16,.58a,.07d,0.58
+Proudfoot et al. (2013),Website,Depression,126,185,1.14***b,24*de,1.14
+Quinn et al. (2008),Log Book,Diabetes,13,13,4.26****,.72°,4.26
+Ralston et al. (2014),Diary/Survey,BP,186,197,.29***,.29**d,0.29
+Raynor et al. (2012),Diary,Weight,94,96,.00a,.42**°,0
+Richardson et al. (2010),Website,PA,254,70,44***,.16d,44
+Jefferson (2005),Diary,"Mood, weight",21,29,3.82***b,-.09de,3.82
+Rosal et al. (2011),SMBG,BG,124,128,.58****,.19d,0.58
+Rosal et al. (2005),SMBG,BG,15,10,.81a,1.04*d,0.81
+Rote (2013),Website,PA,27,26,.41a,1.34***de,0.41
+Runyan et al. (2013),Phone,Time management,41,20,2.70***b,.68*c,2.7
+Samuel-Hodge et al. (2009),Diary,Weight,64,62,3.64***b,.38*d,3.64
+Sengpiel et al. (2010),PDA,Lung function,28,28,.30a,.23c,0.3
+Seto et al. (2012),Phone,Heart function,44,50,3.82***b,.05de,3.82
+Shapiro et al. (2012),Phone,"Weight, PA",64,79,3.17***b,.19d,3.17
+Sheldon (1996),Diary,Diet,8,6,1.55*a,.45de,1.55
+Sherwood et al. (2013),Diary/Survey,Weight,178,186,.45****,.16d,0.45
+Jennings et al. (2014),Website,PA,77,77,3.79***b,.06de,3.79
+Smith et al. (1997),Diary,"Weight, diet, BG",6,10,1.29*a,.65d,1.29
+Spence et al. (2009),Log sheets,Physical activity,16,16,3.52***b,1.07**de,3.52
+Steinberg et al. (2013),Phone,"Weight, diet, PA",45,44,3.82****,1.60***d,3.82
+Suffoletto et al. (2012),Phone,Antibiotic adherence,72,72,3.31***b,.27c,3.31
+Suffoletto et al. (2013),Phone,Symptom assessment,14,22,4.06***b,.38d,4.06
+Jurgens et al. (2013),Diary,Heart failure,48,51,77****,.13c,77
+Kempf et al. (2013),Diary,Diabetes,62,60,2.75***b,.43*de,2.75
+Kim et al. (2012),Website,"Weight, BG",19,23,3.73***b,.29d,3.73
+Webber et al. (2008),Diary,Weight,33,33,.03a,.31d,0.03
+Wing et al. (2006) Comp. 1y,Phone,Weight,103,49,3.82***b,.37d,3.82
+Wing et al. (2006) Comp. 2,Website,Weight,100,49,3.75***b,.04d,3.75
+Wing et al. (2010),Website,Weight,74,76,.16a,.61d,0.16
+Wing et al. (1996) Study 1,Diary,Weight,23,27,3.51***b,.44*d,3.51
+"Young, Medic, & Starkes (2009)",Swim log,PA,15,11,-.71ᵃ,1.00***de,-0.71
+Sugden et al. (2008),Diary,PA,27,18,.88***,-.04d,0.88
+Talbot et al. (2003),Pedometer,PA,17,17,3.55***b,.29de,3.55
+Tan et al. (2011),SMBG,BG,82,82,14.46****,.49**°,14.46
+Tate et al. (2001),Website,Weight,33,32,1.09****,.65**d,1.09
+Thorndike et al. (2012),Website,Weight,145,130,3.36***b,.16d,3.36
+Turner-McGrievy & Tate (2011),Phone,Weight,42,45,.22a,.05d,0.22
+Van der Meer et al. (2009),Website,Asthma,91,92,2.46***b,3.80***d,2.46
+Wang et al. (2012),PDA,Weight,59,60,.29a,.46*ᵈ,0.29
